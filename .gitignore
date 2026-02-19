@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Tool/cache output
+.cache/
+output/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log

@@ -1,0 +1,134 @@
+════════════════════════════════════════════════════════════════════════════════
+  GOOGLE TRENDS SCRAPER - QUICK START
+════════════════════════════════════════════════════════════════════════════════
+
+INSTALL
+═══════
+cd "/Users/adamlevy/Google Trends Scraper"
+pip install -r requirements.txt
+
+VERIFY
+══════
+python3 scraper.py --help
+
+
+USAGE
+═════
+
+1. COMPARE KEYWORDS TO REFERENCE BENCHMARK
+────────────────────────────────────────────
+  python3 scraper.py \
+    --keywords "Theranos,Enron,Panama Papers" \
+    --reference "Jeffrey Epstein,Epstein Files" \
+    --geo US \
+    --report \
+    --open
+
+  Output: HTML report with similarity scores & charts in output/reports/
+
+
+2. DISCOVER TRENDING OPPORTUNITIES
+──────────────────────────────────
+  python3 scraper.py --discover --geo US --report --open
+
+  Output: Report on trending topics with podcast potential
+
+
+3. EXPORT DATA
+──────────────
+  python3 scraper.py --keywords "keyword" --csv --json
+
+  Output: CSV & JSON in output/data/
+
+
+OPTIONS
+═══════
+--keywords TEXT           Comma-separated keywords (max 5)
+--reference TEXT          Reference keywords for comparison
+--timeframe TEXT          Timeframe (default: today 12-m)
+                          Examples: now 1-d, today 1-m, today 12-m, today 5-y
+--geo COUNTRY             Country code (default: US). Examples: US, GB, CA
+--report                  Generate HTML report (default: on)
+--no-report               Skip HTML report
+--open                    Open report in browser
+--csv                     Export CSV
+--json                    Export JSON
+--discover                Discovery mode (analyze trending searches)
+
+
+EXAMPLES
+════════
+
+Find keywords at Epstein Files scale:
+  python3 scraper.py --keywords "Harvey Weinstein,SBF,Anna Delvey" \
+    --reference "Jeffrey Epstein" --geo US --report --open
+
+Deep 5-year analysis:
+  python3 scraper.py --keywords "Theranos" \
+    --timeframe "today 5-y" --geo US --report --csv --json
+
+Find trending podcast topics:
+  python3 scraper.py --discover --geo US --report --open
+
+
+OUTPUT
+══════
+HTML Reports:    output/reports/research_[timestamp].html
+CSV/JSON Data:   output/data/[keyword]_[timestamp].*
+
+Reports include:
+  • Summary table with similarity scores
+  • Interest over time (interactive chart)
+  • Related queries (episode ideas)
+  • Regional heat map
+  • Detailed metrics
+
+
+METRICS
+═══════
+Similarity Score (0-100):
+  70+ = Highly comparable
+  50-70 = Moderately comparable
+  <50 = Less similar
+
+Per-Keyword:
+  • avg_interest       Average search volume (0-100)
+  • momentum           Trend direction (uptrend vs downtrend)
+  • related_queries    Number of related searches (episode angles)
+  • recent_peak        Peaked in last 90 days?
+
+
+RATE LIMITING
+═════════════
+• First run: 5-10 seconds per keyword
+• Subsequent: <1 second (cached)
+• Automatic 60-second backoff between requests
+• Retries 3x on rate limit with exponential backoff
+• Cache TTL: 24 hours
+
+If rate limited: Wait 10-15 minutes, then retry
+
+
+TROUBLESHOOTING
+═══════════════
+ModuleNotFoundError: pip install -r requirements.txt
+Rate limited: Wait 10-15 minutes, retry
+No data: Try broader timeframe (today 5-y) or different keyword
+Clear cache: rm -rf .cache/
+
+
+DOCS
+════
+README.md              Full documentation & examples
+SETUP.md               Installation & first-run guide
+IMPLEMENTATION_SUMMARY.md  Technical overview
+This file             Quick reference
+
+
+NEXT STEPS
+══════════
+1. pip install -r requirements.txt
+2. python3 scraper.py --keywords "test" --report --open
+3. Read README.md for more examples
+
+════════════════════════════════════════════════════════════════════════════════
