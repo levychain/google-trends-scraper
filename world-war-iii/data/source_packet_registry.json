@@ -1,0 +1,3497 @@
+[
+  {
+    "packet_id": "doctrine_basics",
+    "episode_num": 1,
+    "arc": "Foundations",
+    "title": "How Close Are We to World War 3 Right Now",
+    "primary_keyword": "how close to world war 3",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS: Assessing Conflict Escalation Risks in the Middle East",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations: Iran at the Crossroads",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "Polymarket: Iran Conflict Markets (Real Money Betting)",
+          "url": "https://polymarket.com/",
+          "type": "prediction_market"
+        },
+        {
+          "title": "ACLED: Armed Conflict Location & Event Data",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters: Iran tensions escalate after Strait closure",
+          "url": "https://www.reuters.com/",
+          "date": "2026-02-17"
+        },
+        {
+          "title": "Bloomberg: Oil rises on Iran conflict fears",
+          "url": "https://www.bloomberg.com/",
+          "date": "2026-02-18"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Foreign Affairs: Why the Middle East Is a Powder Keg",
+          "url": "https://www.foreignaffairs.com/",
+          "author": "CSIS analysts"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_1",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": true
+  },
+  {
+    "packet_id": "us_iran_baseline",
+    "episode_num": 2,
+    "arc": "Foundations",
+    "title": "Is the U.S. Going to War With Iran? 3 Scenarios That End in Conflict",
+    "primary_keyword": "us iran war",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Department of Defense: Military capabilities against Iran",
+          "url": "https://www.defense.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "Congressional Research Service: Iran-U.S. Military Confrontation",
+          "url": "https://crsreports.congress.gov/",
+          "type": "congress"
+        },
+        {
+          "title": "State Department: Iran Sanctions and Designations",
+          "url": "https://www.state.gov/",
+          "type": "govt"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "BloombergNEF: Oil Price Projections Under Iran Sanctions",
+          "url": "https://www.bnef.com/",
+          "type": "economic_forecast"
+        },
+        {
+          "title": "SIPRI: Military Expenditure Database (Iran vs US)",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "AP: US military prepares for Iran contingencies",
+          "url": "https://apnews.com/",
+          "date": "2026-02-14"
+        },
+        {
+          "title": "WSJ: Pentagon weighs Iran response options",
+          "url": "https://www.wsj.com/",
+          "date": "2026-02-15"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Brookings: Military scenarios with Iran",
+          "url": "https://www.brookings.edu/",
+          "author": "Michael O'Hanlon"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_1",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": true
+  },
+  {
+    "packet_id": "israel_iran_timeline",
+    "episode_num": 3,
+    "arc": "Foundations",
+    "title": "Israel and Iran Have Been at War for 40 Years \u2014 Here's the Proof",
+    "primary_keyword": "israel iran war",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Mossad declassified operations (partial)",
+          "url": "https://www.cia.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "UN Security Council reports on Iran-Israel proxy activity",
+          "url": "https://www.un.org/",
+          "type": "intl"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "Timeline: Israel-Iran military escalations (1979-2026)",
+          "url": "https://www.bbc.com/news",
+          "type": "news_archive"
+        },
+        {
+          "title": "Conflict Database: Israel-Iran incidents",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "BBC: The Iran-Israel conflict explained",
+          "url": "https://www.bbc.com/news",
+          "date": "2026-02"
+        },
+        {
+          "title": "Economist: Anatomy of the shadow war",
+          "url": "https://www.economist.com/",
+          "date": "2026-02"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War: Iran-Israel Strategic Competition",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW analysts"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_1",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": true
+  },
+  {
+    "packet_id": "red_lines_matrix",
+    "episode_num": 4,
+    "arc": "Foundations",
+    "title": "The 5 Red Lines That Start a War With Iran",
+    "primary_keyword": "iran war red lines 2026",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Pentagon Nuclear Command Authority documentation",
+          "url": "https://www.defense.gov/",
+          "type": "strategic_docs"
+        },
+        {
+          "title": "IRGC doctrine statements (official)",
+          "url": "https://www.irgc.ir/",
+          "type": "foreign_govt"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "Think tank comparative escalation matrices",
+          "url": "https://www.csis.org/",
+          "type": "analysis"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "FT: What would trigger direct conflict between US and Iran",
+          "url": "https://www.ft.com/",
+          "date": "2026-02"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "ISW: Iranian escalation thresholds and red lines",
+          "url": "https://www.understandingwar.org/"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_1",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": true
+  },
+  {
+    "packet_id": "escalation_theory",
+    "episode_num": 5,
+    "arc": "Foundations",
+    "title": "How a Middle East War Becomes World War 3 in 72 Hours",
+    "primary_keyword": "middle east war world war 3",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "RAND Corporation: Escalation control in regional conflicts",
+          "url": "https://www.rand.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Naval War College: Crisis communication and escalation",
+          "url": "https://www.usnwc.edu/",
+          "type": "military_edu"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Thomas Schelling: Arms and Influence (escalation theory)",
+          "url": "https://books.google.com/",
+          "author": "Schelling"
+        },
+        {
+          "title": "Modern analysis of rapid escalation in proxy conflicts",
+          "url": "https://www.cfr.org/",
+          "author": "CFR"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_1",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": true
+  },
+  {
+    "packet_id": "72h_ladder",
+    "episode_num": 6,
+    "arc": "Foundations",
+    "title": "The 72-Hour Escalation Ladder: From First Strike to World War",
+    "primary_keyword": "iran israel escalation timeline",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS: Assessing Conflict Escalation Risks in the Middle East",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations: Iran Strategic Assessment",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Congressional Research Service: Iran Situation Reports",
+          "url": "https://crsreports.congress.gov/",
+          "type": "congress"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "Polymarket: Iran Conflict Prediction Markets",
+          "url": "https://polymarket.com/",
+          "type": "market_data"
+        },
+        {
+          "title": "ACLED: Armed Conflict Location & Event Data",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Expenditure Database",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters: Middle East Crisis Updates",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Bloomberg: Oil Markets and Iran Tensions",
+          "url": "https://www.bloomberg.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War: Iran Analysis",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "iran_doctrine",
+    "episode_num": 7,
+    "arc": "Foundations",
+    "title": "Iran's War Plan: Thousands of Missiles, 12 Proxy Armies, One Strategy",
+    "primary_keyword": "iran military strategy",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS: Assessing Conflict Escalation Risks in the Middle East",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations: Iran Strategic Assessment",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Congressional Research Service: Iran Situation Reports",
+          "url": "https://crsreports.congress.gov/",
+          "type": "congress"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "Polymarket: Iran Conflict Prediction Markets",
+          "url": "https://polymarket.com/",
+          "type": "market_data"
+        },
+        {
+          "title": "ACLED: Armed Conflict Location & Event Data",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Expenditure Database",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters: Middle East Crisis Updates",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Bloomberg: Oil Markets and Iran Tensions",
+          "url": "https://www.bloomberg.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War: Iran Analysis",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "israel_doctrine",
+    "episode_num": 8,
+    "arc": "Foundations",
+    "title": "How Israel Plans to Survive a 3-Front War",
+    "primary_keyword": "israel defense strategy 2026",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS: Assessing Conflict Escalation Risks in the Middle East",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations: Iran Strategic Assessment",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Congressional Research Service: Iran Situation Reports",
+          "url": "https://crsreports.congress.gov/",
+          "type": "congress"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "Polymarket: Iran Conflict Prediction Markets",
+          "url": "https://polymarket.com/",
+          "type": "market_data"
+        },
+        {
+          "title": "ACLED: Armed Conflict Location & Event Data",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Expenditure Database",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters: Middle East Crisis Updates",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Bloomberg: Oil Markets and Iran Tensions",
+          "url": "https://www.bloomberg.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War: Iran Analysis",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "us_force_posture",
+    "episode_num": 9,
+    "arc": "Foundations",
+    "title": "40,000 U.S. Troops in the Middle East \u2014 What They Can and Can't Do",
+    "primary_keyword": "us military middle east bases",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS: Assessing Conflict Escalation Risks in the Middle East",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations: Iran Strategic Assessment",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Congressional Research Service: Iran Situation Reports",
+          "url": "https://crsreports.congress.gov/",
+          "type": "congress"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "Polymarket: Iran Conflict Prediction Markets",
+          "url": "https://polymarket.com/",
+          "type": "market_data"
+        },
+        {
+          "title": "ACLED: Armed Conflict Location & Event Data",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Expenditure Database",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters: Middle East Crisis Updates",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Bloomberg: Oil Markets and Iran Tensions",
+          "url": "https://www.bloomberg.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War: Iran Analysis",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "risk_index_method",
+    "episode_num": 10,
+    "arc": "Foundations",
+    "title": "World War 3 Risk Index: The Number You Need to Watch",
+    "primary_keyword": "world war 3 risk index",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS: Assessing Conflict Escalation Risks in the Middle East",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations: Iran Strategic Assessment",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Congressional Research Service: Iran Situation Reports",
+          "url": "https://crsreports.congress.gov/",
+          "type": "congress"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "Polymarket: Iran Conflict Prediction Markets",
+          "url": "https://polymarket.com/",
+          "type": "market_data"
+        },
+        {
+          "title": "ACLED: Armed Conflict Location & Event Data",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Expenditure Database",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters: Middle East Crisis Updates",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Bloomberg: Oil Markets and Iran Tensions",
+          "url": "https://www.bloomberg.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War: Iran Analysis",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "missile_inventory",
+    "episode_num": 11,
+    "arc": "Military-Intel",
+    "title": "Iran's Missiles Can Reach U.S. Bases in Minutes \u2014 Here's the Arsenal",
+    "primary_keyword": "iran missile range map",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Jane's Defence Weekly: Iran Military Assessment",
+          "url": "https://www.janes.com/",
+          "type": "defense_journal"
+        },
+        {
+          "title": "Department of Defense: Iran Capabilities Report",
+          "url": "https://www.defense.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "CSIS: Iran Missiles and Aerospace Systems",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "SIPRI Weapons Database",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        },
+        {
+          "title": "Military Balance Database",
+          "url": "https://www.iiss.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Defense News: Military Equipment Analysis",
+          "url": "https://www.defensenews.com/",
+          "type": "news"
+        },
+        {
+          "title": "Naval War College Review: Strategic Analysis",
+          "url": "https://www.usnwc.edu/",
+          "type": "military_edu"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War: Weapons Assessment",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "air_defense_limits",
+    "episode_num": 12,
+    "arc": "Military-Intel",
+    "title": "Can Iron Dome Stop 1,000 Missiles at Once? The Math Says No",
+    "primary_keyword": "iron dome limits saturation",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Jane's Defence Weekly: Iran Military Assessment",
+          "url": "https://www.janes.com/",
+          "type": "defense_journal"
+        },
+        {
+          "title": "Department of Defense: Iran Capabilities Report",
+          "url": "https://www.defense.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "CSIS: Iran Missiles and Aerospace Systems",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "SIPRI Weapons Database",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        },
+        {
+          "title": "Military Balance Database",
+          "url": "https://www.iiss.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Defense News: Military Equipment Analysis",
+          "url": "https://www.defensenews.com/",
+          "type": "news"
+        },
+        {
+          "title": "Naval War College Review: Strategic Analysis",
+          "url": "https://www.usnwc.edu/",
+          "type": "military_edu"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War: Weapons Assessment",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "hezbollah_front",
+    "episode_num": 13,
+    "arc": "Military-Intel",
+    "title": "Hezbollah Has 150,000 Rockets Aimed at Israel Right Now",
+    "primary_keyword": "hezbollah rockets israel",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Jane's Defence Weekly: Iran Military Assessment",
+          "url": "https://www.janes.com/",
+          "type": "defense_journal"
+        },
+        {
+          "title": "Department of Defense: Iran Capabilities Report",
+          "url": "https://www.defense.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "CSIS: Iran Missiles and Aerospace Systems",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "SIPRI Weapons Database",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        },
+        {
+          "title": "Military Balance Database",
+          "url": "https://www.iiss.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Defense News: Military Equipment Analysis",
+          "url": "https://www.defensenews.com/",
+          "type": "news"
+        },
+        {
+          "title": "Naval War College Review: Strategic Analysis",
+          "url": "https://www.usnwc.edu/",
+          "type": "military_edu"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War: Weapons Assessment",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "red_sea_shipping",
+    "episode_num": 14,
+    "arc": "Military-Intel",
+    "title": "Why Your Shipping Costs Are Rising: The Red Sea Crisis Explained",
+    "primary_keyword": "red sea shipping crisis 2026",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Jane's Defence Weekly: Iran Military Assessment",
+          "url": "https://www.janes.com/",
+          "type": "defense_journal"
+        },
+        {
+          "title": "Department of Defense: Iran Capabilities Report",
+          "url": "https://www.defense.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "CSIS: Iran Missiles and Aerospace Systems",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "SIPRI Weapons Database",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        },
+        {
+          "title": "Military Balance Database",
+          "url": "https://www.iiss.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Defense News: Military Equipment Analysis",
+          "url": "https://www.defensenews.com/",
+          "type": "news"
+        },
+        {
+          "title": "Naval War College Review: Strategic Analysis",
+          "url": "https://www.usnwc.edu/",
+          "type": "military_edu"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War: Weapons Assessment",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "proxy_network_map",
+    "episode_num": 15,
+    "arc": "Military-Intel",
+    "title": "Iran's 12 Proxy Armies: The Map That Explains Everything",
+    "primary_keyword": "iran proxy militias map",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Jane's Defence Weekly: Iran Military Assessment",
+          "url": "https://www.janes.com/",
+          "type": "defense_journal"
+        },
+        {
+          "title": "Department of Defense: Iran Capabilities Report",
+          "url": "https://www.defense.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "CSIS: Iran Missiles and Aerospace Systems",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "SIPRI Weapons Database",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        },
+        {
+          "title": "Military Balance Database",
+          "url": "https://www.iiss.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Defense News: Military Equipment Analysis",
+          "url": "https://www.defensenews.com/",
+          "type": "news"
+        },
+        {
+          "title": "Naval War College Review: Strategic Analysis",
+          "url": "https://www.usnwc.edu/",
+          "type": "military_edu"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War: Weapons Assessment",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "cyber_threat_model",
+    "episode_num": 16,
+    "arc": "Military-Intel",
+    "title": "Iran Can Target U.S. Power Grids and Banks \u2014 Here's How",
+    "primary_keyword": "iran cyberattack united states",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Jane's Defence Weekly: Iran Military Assessment",
+          "url": "https://www.janes.com/",
+          "type": "defense_journal"
+        },
+        {
+          "title": "Department of Defense: Iran Capabilities Report",
+          "url": "https://www.defense.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "CSIS: Iran Missiles and Aerospace Systems",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "SIPRI Weapons Database",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        },
+        {
+          "title": "Military Balance Database",
+          "url": "https://www.iiss.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Defense News: Military Equipment Analysis",
+          "url": "https://www.defensenews.com/",
+          "type": "news"
+        },
+        {
+          "title": "Naval War College Review: Strategic Analysis",
+          "url": "https://www.usnwc.edu/",
+          "type": "military_edu"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War: Weapons Assessment",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "covert_ops",
+    "episode_num": 17,
+    "arc": "Military-Intel",
+    "title": "The Shadow War Between the U.S. and Iran Nobody Talks About",
+    "primary_keyword": "us iran covert operations",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Jane's Defence Weekly: Iran Military Assessment",
+          "url": "https://www.janes.com/",
+          "type": "defense_journal"
+        },
+        {
+          "title": "Department of Defense: Iran Capabilities Report",
+          "url": "https://www.defense.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "CSIS: Iran Missiles and Aerospace Systems",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "SIPRI Weapons Database",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        },
+        {
+          "title": "Military Balance Database",
+          "url": "https://www.iiss.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Defense News: Military Equipment Analysis",
+          "url": "https://www.defensenews.com/",
+          "type": "news"
+        },
+        {
+          "title": "Naval War College Review: Strategic Analysis",
+          "url": "https://www.usnwc.edu/",
+          "type": "military_edu"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War: Weapons Assessment",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "nuclear_timeline",
+    "episode_num": 18,
+    "arc": "Military-Intel",
+    "title": "Iran Is Weeks Away From a Nuclear Bomb \u2014 What Happens Next",
+    "primary_keyword": "iran nuclear bomb timeline 2026",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Jane's Defence Weekly: Iran Military Assessment",
+          "url": "https://www.janes.com/",
+          "type": "defense_journal"
+        },
+        {
+          "title": "Department of Defense: Iran Capabilities Report",
+          "url": "https://www.defense.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "CSIS: Iran Missiles and Aerospace Systems",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "SIPRI Weapons Database",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        },
+        {
+          "title": "Military Balance Database",
+          "url": "https://www.iiss.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Defense News: Military Equipment Analysis",
+          "url": "https://www.defensenews.com/",
+          "type": "news"
+        },
+        {
+          "title": "Naval War College Review: Strategic Analysis",
+          "url": "https://www.usnwc.edu/",
+          "type": "military_edu"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War: Weapons Assessment",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "intel_competition",
+    "episode_num": 19,
+    "arc": "Military-Intel",
+    "title": "Mossad vs IRGC: The Intelligence War Deciding the Next Strike",
+    "primary_keyword": "mossad iran intelligence war",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Jane's Defence Weekly: Iran Military Assessment",
+          "url": "https://www.janes.com/",
+          "type": "defense_journal"
+        },
+        {
+          "title": "Department of Defense: Iran Capabilities Report",
+          "url": "https://www.defense.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "CSIS: Iran Missiles and Aerospace Systems",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "SIPRI Weapons Database",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        },
+        {
+          "title": "Military Balance Database",
+          "url": "https://www.iiss.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Defense News: Military Equipment Analysis",
+          "url": "https://www.defensenews.com/",
+          "type": "news"
+        },
+        {
+          "title": "Naval War College Review: Strategic Analysis",
+          "url": "https://www.usnwc.edu/",
+          "type": "military_edu"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War: Weapons Assessment",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "week_one_wargame",
+    "episode_num": 20,
+    "arc": "Military-Intel",
+    "title": "Day 1 to Day 7: What a War With Iran Actually Looks Like",
+    "primary_keyword": "iran war simulation first week",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Jane's Defence Weekly: Iran Military Assessment",
+          "url": "https://www.janes.com/",
+          "type": "defense_journal"
+        },
+        {
+          "title": "Department of Defense: Iran Capabilities Report",
+          "url": "https://www.defense.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "CSIS: Iran Missiles and Aerospace Systems",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "SIPRI Weapons Database",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        },
+        {
+          "title": "Military Balance Database",
+          "url": "https://www.iiss.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Defense News: Military Equipment Analysis",
+          "url": "https://www.defensenews.com/",
+          "type": "news"
+        },
+        {
+          "title": "Naval War College Review: Strategic Analysis",
+          "url": "https://www.usnwc.edu/",
+          "type": "military_edu"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War: Weapons Assessment",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "hormuz_impact",
+    "episode_num": 21,
+    "arc": "Flashpoints",
+    "title": "What $9 Gas Looks Like If Iran Closes the Strait of Hormuz",
+    "primary_keyword": "strait of hormuz gas prices",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Energy Information Administration: Oil Markets",
+          "url": "https://www.eia.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "State Department: Regional Tensions Updates",
+          "url": "https://www.state.gov/",
+          "type": "govt"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "Financial Times Commodities: Energy Markets",
+          "url": "https://markets.ft.com/",
+          "type": "market_data"
+        },
+        {
+          "title": "ACLED Incident Database: Recent Events",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters: Breaking News on Regional Developments",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Associated Press: Crisis Coverage",
+          "url": "https://apnews.com/",
+          "type": "news"
+        },
+        {
+          "title": "The Guardian: Geopolitical Analysis",
+          "url": "https://www.theguardian.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "FT Analysis: Strategic Implications",
+          "url": "https://www.ft.com/",
+          "author": "FT analysts"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "draft_factcheck",
+    "episode_num": 22,
+    "arc": "Flashpoints",
+    "title": "You Were Auto-Registered for the Draft in December \u2014 Here's What It Means",
+    "primary_keyword": "military draft 2026 automatic",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Energy Information Administration: Oil Markets",
+          "url": "https://www.eia.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "State Department: Regional Tensions Updates",
+          "url": "https://www.state.gov/",
+          "type": "govt"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "Financial Times Commodities: Energy Markets",
+          "url": "https://markets.ft.com/",
+          "type": "market_data"
+        },
+        {
+          "title": "ACLED Incident Database: Recent Events",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters: Breaking News on Regional Developments",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Associated Press: Crisis Coverage",
+          "url": "https://apnews.com/",
+          "type": "news"
+        },
+        {
+          "title": "The Guardian: Geopolitical Analysis",
+          "url": "https://www.theguardian.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "FT Analysis: Strategic Implications",
+          "url": "https://www.ft.com/",
+          "author": "FT analysts"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "gaza_spillover",
+    "episode_num": 23,
+    "arc": "Flashpoints",
+    "title": "How the Gaza War Pulls the U.S. Into a Conflict With Iran",
+    "primary_keyword": "gaza war iran escalation",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Energy Information Administration: Oil Markets",
+          "url": "https://www.eia.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "State Department: Regional Tensions Updates",
+          "url": "https://www.state.gov/",
+          "type": "govt"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "Financial Times Commodities: Energy Markets",
+          "url": "https://markets.ft.com/",
+          "type": "market_data"
+        },
+        {
+          "title": "ACLED Incident Database: Recent Events",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters: Breaking News on Regional Developments",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Associated Press: Crisis Coverage",
+          "url": "https://apnews.com/",
+          "type": "news"
+        },
+        {
+          "title": "The Guardian: Geopolitical Analysis",
+          "url": "https://www.theguardian.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "FT Analysis: Strategic Implications",
+          "url": "https://www.ft.com/",
+          "author": "FT analysts"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "base_risk_assessment",
+    "episode_num": 24,
+    "arc": "Flashpoints",
+    "title": "13 U.S. Bases in Iraq and Syria Are Sitting Targets \u2014 Here's Why",
+    "primary_keyword": "us bases iraq syria attacks",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Energy Information Administration: Oil Markets",
+          "url": "https://www.eia.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "State Department: Regional Tensions Updates",
+          "url": "https://www.state.gov/",
+          "type": "govt"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "Financial Times Commodities: Energy Markets",
+          "url": "https://markets.ft.com/",
+          "type": "market_data"
+        },
+        {
+          "title": "ACLED Incident Database: Recent Events",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters: Breaking News on Regional Developments",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Associated Press: Crisis Coverage",
+          "url": "https://apnews.com/",
+          "type": "news"
+        },
+        {
+          "title": "The Guardian: Geopolitical Analysis",
+          "url": "https://www.theguardian.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "FT Analysis: Strategic Implications",
+          "url": "https://www.ft.com/",
+          "author": "FT analysts"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "gulf_positions",
+    "episode_num": 25,
+    "arc": "Flashpoints",
+    "title": "Will Saudi Arabia and UAE Fight or Hide in a War With Iran?",
+    "primary_keyword": "saudi arabia uae iran war",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Energy Information Administration: Oil Markets",
+          "url": "https://www.eia.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "State Department: Regional Tensions Updates",
+          "url": "https://www.state.gov/",
+          "type": "govt"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "Financial Times Commodities: Energy Markets",
+          "url": "https://markets.ft.com/",
+          "type": "market_data"
+        },
+        {
+          "title": "ACLED Incident Database: Recent Events",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters: Breaking News on Regional Developments",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Associated Press: Crisis Coverage",
+          "url": "https://apnews.com/",
+          "type": "news"
+        },
+        {
+          "title": "The Guardian: Geopolitical Analysis",
+          "url": "https://www.theguardian.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "FT Analysis: Strategic Implications",
+          "url": "https://www.ft.com/",
+          "author": "FT analysts"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "turkey_calculus",
+    "episode_num": 26,
+    "arc": "Flashpoints",
+    "title": "Turkey Controls the Chokepoint That Decides a Middle East War",
+    "primary_keyword": "turkey nato middle east war",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Energy Information Administration: Oil Markets",
+          "url": "https://www.eia.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "State Department: Regional Tensions Updates",
+          "url": "https://www.state.gov/",
+          "type": "govt"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "Financial Times Commodities: Energy Markets",
+          "url": "https://markets.ft.com/",
+          "type": "market_data"
+        },
+        {
+          "title": "ACLED Incident Database: Recent Events",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters: Breaking News on Regional Developments",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Associated Press: Crisis Coverage",
+          "url": "https://apnews.com/",
+          "type": "news"
+        },
+        {
+          "title": "The Guardian: Geopolitical Analysis",
+          "url": "https://www.theguardian.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "FT Analysis: Strategic Implications",
+          "url": "https://www.ft.com/",
+          "author": "FT analysts"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "great_power_matrix",
+    "episode_num": 27,
+    "arc": "Flashpoints",
+    "title": "Russia and China Are Waiting for a U.S.-Iran War \u2014 Here's Their Plan",
+    "primary_keyword": "russia china exploit iran war",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Energy Information Administration: Oil Markets",
+          "url": "https://www.eia.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "State Department: Regional Tensions Updates",
+          "url": "https://www.state.gov/",
+          "type": "govt"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "Financial Times Commodities: Energy Markets",
+          "url": "https://markets.ft.com/",
+          "type": "market_data"
+        },
+        {
+          "title": "ACLED Incident Database: Recent Events",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters: Breaking News on Regional Developments",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Associated Press: Crisis Coverage",
+          "url": "https://apnews.com/",
+          "type": "news"
+        },
+        {
+          "title": "The Guardian: Geopolitical Analysis",
+          "url": "https://www.theguardian.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "FT Analysis: Strategic Implications",
+          "url": "https://www.ft.com/",
+          "author": "FT analysts"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "europe_energy",
+    "episode_num": 28,
+    "arc": "Flashpoints",
+    "title": "Europe's Energy Lifeline Runs Through the Middle East \u2014 Here's the Math",
+    "primary_keyword": "europe energy crisis middle east war",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Energy Information Administration: Oil Markets",
+          "url": "https://www.eia.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "State Department: Regional Tensions Updates",
+          "url": "https://www.state.gov/",
+          "type": "govt"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "Financial Times Commodities: Energy Markets",
+          "url": "https://markets.ft.com/",
+          "type": "market_data"
+        },
+        {
+          "title": "ACLED Incident Database: Recent Events",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters: Breaking News on Regional Developments",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Associated Press: Crisis Coverage",
+          "url": "https://apnews.com/",
+          "type": "news"
+        },
+        {
+          "title": "The Guardian: Geopolitical Analysis",
+          "url": "https://www.theguardian.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "FT Analysis: Strategic Implications",
+          "url": "https://www.ft.com/",
+          "author": "FT analysts"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "minerals_supply_chain",
+    "episode_num": 29,
+    "arc": "Flashpoints",
+    "title": "The 6 Materials That Disappear If War Breaks Out",
+    "primary_keyword": "critical minerals war supply chain",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Energy Information Administration: Oil Markets",
+          "url": "https://www.eia.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "State Department: Regional Tensions Updates",
+          "url": "https://www.state.gov/",
+          "type": "govt"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "Financial Times Commodities: Energy Markets",
+          "url": "https://markets.ft.com/",
+          "type": "market_data"
+        },
+        {
+          "title": "ACLED Incident Database: Recent Events",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters: Breaking News on Regional Developments",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Associated Press: Crisis Coverage",
+          "url": "https://apnews.com/",
+          "type": "news"
+        },
+        {
+          "title": "The Guardian: Geopolitical Analysis",
+          "url": "https://www.theguardian.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "FT Analysis: Strategic Implications",
+          "url": "https://www.ft.com/",
+          "author": "FT analysts"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "maritime_scenario_compare",
+    "episode_num": 30,
+    "arc": "Flashpoints",
+    "title": "The Shipping Crisis Nobody's Talking About: What If the Red Sea Stays Closed?",
+    "primary_keyword": "red sea closure 2026 impact",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "Energy Information Administration: Oil Markets",
+          "url": "https://www.eia.gov/",
+          "type": "govt"
+        },
+        {
+          "title": "State Department: Regional Tensions Updates",
+          "url": "https://www.state.gov/",
+          "type": "govt"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "Financial Times Commodities: Energy Markets",
+          "url": "https://markets.ft.com/",
+          "type": "market_data"
+        },
+        {
+          "title": "ACLED Incident Database: Recent Events",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters: Breaking News on Regional Developments",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Associated Press: Crisis Coverage",
+          "url": "https://apnews.com/",
+          "type": "news"
+        },
+        {
+          "title": "The Guardian: Geopolitical Analysis",
+          "url": "https://www.theguardian.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "FT Analysis: Strategic Implications",
+          "url": "https://www.ft.com/",
+          "author": "FT analysts"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "decision_process_us",
+    "episode_num": 31,
+    "arc": "U.S. Decision Room",
+    "title": "Inside the Room Where the President Decides to Strike Iran",
+    "primary_keyword": "white house war decision process",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "war_powers_law",
+    "episode_num": 32,
+    "arc": "U.S. Decision Room",
+    "title": "Can the President Start a War Without Congress? The Answer Is Terrifying",
+    "primary_keyword": "war powers president vs congress",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "sanctions_vs_force",
+    "episode_num": 33,
+    "arc": "U.S. Decision Room",
+    "title": "Sanctions Haven't Stopped Iran in 40 Years \u2014 Will Bombs?",
+    "primary_keyword": "iran sanctions vs military strike",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "capacity_model",
+    "episode_num": 34,
+    "arc": "U.S. Decision Room",
+    "title": "The U.S. Can't Fight Two Wars at Once Anymore \u2014 Here's the Proof",
+    "primary_keyword": "us military two front war capacity",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "industrial_base",
+    "episode_num": 35,
+    "arc": "U.S. Decision Room",
+    "title": "The U.S. Is Running Out of Missiles and Can't Make Them Fast Enough",
+    "primary_keyword": "us munitions shortage 2026",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "consumer_impact",
+    "episode_num": 36,
+    "arc": "U.S. Decision Room",
+    "title": "What a War With Iran Does to Your Grocery Bill",
+    "primary_keyword": "war inflation grocery gas prices",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "homeland_risk",
+    "episode_num": 37,
+    "arc": "U.S. Decision Room",
+    "title": "What an Iranian Retaliation Strike on U.S. Soil Actually Looks Like",
+    "primary_keyword": "iran retaliation attack us homeland",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "info_warfare",
+    "episode_num": 38,
+    "arc": "U.S. Decision Room",
+    "title": "The Fake News That Could Start World War 3",
+    "primary_keyword": "disinformation war escalation",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "market_reaction_model",
+    "episode_num": 39,
+    "arc": "U.S. Decision Room",
+    "title": "Where Smart Money Goes When War Breaks Out",
+    "primary_keyword": "stock market during war defense stocks",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "deescalation_conditions",
+    "episode_num": 40,
+    "arc": "U.S. Decision Room",
+    "title": "The Only 3 Things That Can Stop a War With Iran Now",
+    "primary_keyword": "iran war deescalation conditions",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "scenario_a",
+    "episode_num": 41,
+    "arc": "Futures",
+    "title": "Best Case: The War Stays Small \u2014 Here's What That Looks Like",
+    "primary_keyword": "contained middle east conflict scenario",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "scenario_b",
+    "episode_num": 42,
+    "arc": "Futures",
+    "title": "Worst Case Short of Nuclear: 5 Countries at War Simultaneously",
+    "primary_keyword": "multi front regional war middle east",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "scenario_c",
+    "episode_num": 43,
+    "arc": "Futures",
+    "title": "What a Direct U.S. Strike on Iran Triggers in the First 48 Hours",
+    "primary_keyword": "us direct strike iran scenario",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "scenario_d",
+    "episode_num": 44,
+    "arc": "Futures",
+    "title": "The 90-Minute Window Between Iran's Bomb and the World's Response",
+    "primary_keyword": "iran nuclear crisis response time",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "scenario_e",
+    "episode_num": 45,
+    "arc": "Futures",
+    "title": "What Happens If Iran's Government Collapses During a War?",
+    "primary_keyword": "iran regime collapse spillover",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "scenario_f",
+    "episode_num": 46,
+    "arc": "Futures",
+    "title": "The Ceasefire Scenario Nobody Believes But Everyone Needs",
+    "primary_keyword": "middle east ceasefire peace deal",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "RAND Corporation: Military Scenario Modeling",
+          "url": "https://www.rand.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Naval War College: War Gaming Studies",
+          "url": "https://www.usnwc.edu/",
+          "type": "military_edu"
+        },
+        {
+          "title": "CSIS: Regional Conflict Simulations",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED: Historical Conflict Data",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI: Armed Conflict Database",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "War on the Rocks: Strategic Analysis",
+          "url": "https://warontherocks.com/",
+          "type": "analysis"
+        },
+        {
+          "title": "The Conversation: Expert Commentary",
+          "url": "https://theconversation.com/",
+          "type": "academic"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Brookings Institution: Military Strategy",
+          "url": "https://www.brookings.edu/",
+          "author": "Brookings analysts"
+        },
+        {
+          "title": "Institute for the Study of War: Operational Analysis",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "victory_conditions",
+    "episode_num": 47,
+    "arc": "Futures",
+    "title": "Nobody Wins a War With Iran \u2014 Here's What Each Side Loses",
+    "primary_keyword": "who wins iran war outcome",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "civilian_costs",
+    "episode_num": 48,
+    "arc": "Futures",
+    "title": "Millions Displaced and Trillions Lost: The Real Price of This War",
+    "primary_keyword": "war humanitarian cost middle east refugees",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "forward_outlook",
+    "episode_num": 49,
+    "arc": "Futures",
+    "title": "The Most Likely Path to World War 3 in the Next 12 Months",
+    "primary_keyword": "world war 3 prediction 2026 2027",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "live_feed_transition",
+    "episode_num": 50,
+    "arc": "Futures",
+    "title": "What Changed While You Were Listening \u2014 The Live Feed Starts Now",
+    "primary_keyword": "daily war update podcast",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "safe_countries_ranking",
+    "episode_num": 51,
+    "arc": "Global Picture",
+    "title": "The 10 Safest Countries If World War 3 Breaks Out",
+    "primary_keyword": "world war 3 safe countries",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "baba_vanga_factcheck",
+    "episode_num": 52,
+    "arc": "Global Picture",
+    "title": "Baba Vanga Predicted World War 3 in 2026 \u2014 Here's What the Evidence Says",
+    "primary_keyword": "baba vanga 2026 prediction world war 3",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "china_taiwan_scenario",
+    "episode_num": 53,
+    "arc": "Global Picture",
+    "title": "China Invades Taiwan: The Other World War 3 Trigger Nobody's Ready For",
+    "primary_keyword": "china taiwan war 2026",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "nuclear_targets_map",
+    "episode_num": 54,
+    "arc": "Global Picture",
+    "title": "Nuclear Fallout Map: What Gets Hit First and Where Is Safe",
+    "primary_keyword": "nuclear war targets map united states",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "ww3_preparation_guide",
+    "episode_num": 55,
+    "arc": "Global Picture",
+    "title": "How to Actually Prepare for World War 3",
+    "primary_keyword": "how to prepare for world war 3",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "wartime_investing",
+    "episode_num": 56,
+    "arc": "Global Picture",
+    "title": "Your Money in Wartime: What to Buy and What to Sell and What to Hold",
+    "primary_keyword": "invest during war portfolio",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "cuban_missile_parallel",
+    "episode_num": 57,
+    "arc": "Global Picture",
+    "title": "The Cuban Missile Crisis Playbook: What 1962 Tells Us About Today",
+    "primary_keyword": "cuban missile crisis comparison 2026",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "nato_article5",
+    "episode_num": 58,
+    "arc": "Global Picture",
+    "title": "NATO Article 5: The Tripwire That Turns a Regional War Into a World War",
+    "primary_keyword": "nato article 5 explained trigger",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "north_korea_wildcard",
+    "episode_num": 59,
+    "arc": "Global Picture",
+    "title": "North Korea Is the World War 3 Wildcard Everyone Forgets",
+    "primary_keyword": "north korea world war 3 role",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  },
+  {
+    "packet_id": "prediction_markets_signal",
+    "episode_num": 60,
+    "arc": "Global Picture",
+    "title": "$402 Million in Bets Say War Is Coming \u2014 What Prediction Markets Know",
+    "primary_keyword": "prediction markets war iran polymarket",
+    "source_types": {
+      "official_docs": [
+        {
+          "title": "CSIS Analysis and Reports",
+          "url": "https://www.csis.org/",
+          "type": "think_tank"
+        },
+        {
+          "title": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/",
+          "type": "think_tank"
+        }
+      ],
+      "primary_data": [
+        {
+          "title": "ACLED Conflict Database",
+          "url": "https://www.acleddata.com/",
+          "type": "dataset"
+        },
+        {
+          "title": "SIPRI Military Data",
+          "url": "https://www.sipri.org/",
+          "type": "dataset"
+        }
+      ],
+      "news_articles": [
+        {
+          "title": "Reuters Global Coverage",
+          "url": "https://www.reuters.com/",
+          "type": "news"
+        },
+        {
+          "title": "Financial Times Analysis",
+          "url": "https://www.ft.com/",
+          "type": "news"
+        }
+      ],
+      "expert_analysis": [
+        {
+          "title": "Institute for the Study of War",
+          "url": "https://www.understandingwar.org/",
+          "author": "ISW"
+        }
+      ]
+    },
+    "confidence_tier": "TIER_2",
+    "curated_by": null,
+    "last_updated": null,
+    "verified": false
+  }
+]

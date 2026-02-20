@@ -15,6 +15,13 @@ cd "/Users/adamlevy/Google Trends Scraper"
 pip install -r requirements.txt
 ```
 
+## Documentation
+
+- `docs/getting-started/quick-start.txt` — quick command reference
+- `docs/getting-started/setup.md` — installation and first-run setup
+- `docs/implementation/implementation-summary.md` — architecture and implementation notes
+- `world-war-iii/README.md` — World War III topic workspace (context, reports, data)
+
 ## Quick Start
 
 ### Research Mode: Compare Specific Keywords
@@ -213,6 +220,10 @@ Google Trends Scraper/
 ├── reporter.py       # HTML report generator
 ├── config.py         # Configuration defaults
 ├── requirements.txt  # Python dependencies
+├── docs/             # Project documentation and context
+│   ├── getting-started/
+│   ├── implementation/
+│   └── context/
 ├── .cache/           # Cached API responses (auto-generated)
 ├── output/           # Generated reports and data exports
 │   ├── reports/      # HTML reports

@@ -59,24 +59,24 @@ class KeywordAnalyzer:
         min_interest = interest_df[keyword].min() if keyword in interest_df.columns else 0
         volatility = interest_df[keyword].std() if keyword in interest_df.columns else 0
 
-        # Momentum: compare last 6 months to prior 6 months
+        # Momentum: compare recent half-period average to prior half-period average.
+        # This is more stable than slope ratios, which can explode when denominator trends are near zero.
         if len(interest_df) >= 26:  # At least 26 weeks for 6mo+6mo split
             mid = len(interest_df) // 2
             last_6mo = interest_df.iloc[mid:][keyword].values
             prior_6mo = interest_df.iloc[:mid][keyword].values
 
-            last_6mo_trend = np.polyfit(range(len(last_6mo)), last_6mo, 1)[0]
-            prior_6mo_trend = np.polyfit(range(len(prior_6mo)), prior_6mo, 1)[0]
-
-            # Momentum = ratio of recent trend to prior trend
-            if prior_6mo_trend != 0:
-                momentum = last_6mo_trend / prior_6mo_trend
-            else:
-                momentum = last_6mo_trend
+            prior_mean = float(np.mean(prior_6mo))
+            recent_mean = float(np.mean(last_6mo))
+            momentum = (recent_mean - prior_mean) / max(prior_mean, 1.0)
         else:
-            # Fallback: simple linear trend over entire period
-            x = np.arange(len(interest_df))
-            momentum = np.polyfit(x, interest_df[keyword].values, 1)[0]
+            # Fallback for short windows: recent third average vs prior period average.
+            split = max(1, len(interest_df) // 3)
+            prior = interest_df.iloc[:-split][keyword].values
+            recent = interest_df.iloc[-split:][keyword].values
+            prior_mean = float(np.mean(prior)) if len(prior) else 0.0
+            recent_mean = float(np.mean(recent)) if len(recent) else 0.0
+            momentum = (recent_mean - prior_mean) / max(prior_mean, 1.0)
 
         # Related queries
         rq_data = related_queries.get(keyword, {})
@@ -145,10 +145,10 @@ class KeywordAnalyzer:
         momentum_gap = abs(metrics.momentum - self.reference_momentum)
         breadth_gap = abs(metrics.related_queries_count - self.reference_breadth)
 
-        # Normalize gaps to 0-100 scale (inverse: closer to ref = higher score)
-        # Adjust scales based on typical values
-        max_interest_gap = max(self.reference_avg_interest, 50)  # Max reasonable difference
-        max_momentum_gap = 2.0  # Momentum can be negative or positive
+        # Normalize gaps to 0-100 scale (inverse: closer to ref = higher score).
+        # Use dynamic scales so a single hardcoded constant cannot dominate scoring.
+        max_interest_gap = max(self.reference_avg_interest, metrics.avg_interest, 10.0)
+        max_momentum_gap = max(abs(self.reference_momentum), abs(metrics.momentum), 1.0)
         max_breadth_gap = max(self.reference_breadth, 20)
 
         interest_score = max(0, 100 - (avg_interest_gap / max_interest_gap) * 100)
@@ -167,6 +167,13 @@ class KeywordAnalyzer:
             + momentum_score * weights["momentum"]
             + breadth_score * weights["breadth"]
         )
+
+        # Demand-ratio penalty: "comparable" should require comparable average demand.
+        # This guards against inflated scores when breadth matches but demand is far lower.
+        demand_ratio = min(metrics.avg_interest, self.reference_avg_interest) / max(
+            metrics.avg_interest, self.reference_avg_interest, 1.0
+        )
+        similarity_score *= demand_ratio
 
         return ComparisonScore(
             keyword=keyword,
