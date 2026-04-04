@@ -1,0 +1,58 @@
+# Neurodivergent Series — Google Trends Configuration
+# Neurodiversity, ADHD, autism, and high-profile neurodivergent figures
+
+series: "Neurodivergent"
+description: "Neurodiversity, ADHD, autism, and character studies of neurodivergent founders and artists"
+
+# Primary keywords to track
+anchors:
+  - "ADHD"
+  - "autism"
+  - "neurodiversity"
+
+# Intent domain for semantic relevance scoring
+intent_domain: "neurodivergence, ADHD, autism spectrum disorder, dyslexia, mental health, neurodiversity, learning differences, autism, brain structure, executive function, sensory processing, attention deficit, developmental psychology, neuroscience, psychology"
+
+# Google Trends categories to prioritize
+trending_categories:
+  - 5   # Health
+  - 9   # Science & Technology
+
+# Geographic focus
+geo: "US"
+timeframe: "today 12-m"
+
+# Seed keywords for discovery
+seed_keywords:
+  - "ADHD"
+  - "autism"
+  - "Elon Musk neurodivergent"
+  - "Alex Karp autism"
+  - "Lady Gaga mental health"
+  - "neurodivergent entrepreneur"
+  - "ADHD diagnosis adult"
+  - "autism spectrum"
+  - "executive function"
+  - "dyslexia"
+  - "hyperfocus"
+  - "sensory processing"
+
+# Seed people (high-profile neurodivergent figures)
+seed_people:
+  - "Elon Musk"
+  - "Alex Karp"
+  - "Lady Gaga"
+  - "Bill Gates"
+  - "Albert Einstein"
+  - "Steve Jobs"
+
+# Reference benchmarks for comparison
+reference_keywords:
+  - "ADHD"
+  - "autism diagnosis"
+  - "neurodivergence"
+
+# Scoring thresholds
+min_momentum: 1.2
+min_avg_interest: 7
+discovery_limit: 50
