@@ -1,0 +1,51 @@
+Episode,Arc,SEO_Title,Primary_Keyword,One_Line_Hook,Prev_Episode,Next_Episode,Format,Source_Packet_ID
+1,Foundations,World War 3 Explained: What It Actually Means,world war 3,Define WW3 thresholds and what would count as global war.,START,2,time_capsule,doctrine_basics
+2,Foundations,Is the U.S. Going to War With Iran? Core Scenarios,us iran war,Map three realistic U.S.-Iran conflict paths.,1,3,time_capsule,us_iran_baseline
+3,Foundations,Israel Iran War Explained: How We Got Here,israel iran war,Historical chain from shadow conflict to open exchange.,2,4,time_capsule,israel_iran_timeline
+4,Foundations,War With Iran: Red Lines That Matter Most,war with iran,Identify trigger events that force escalation.,3,5,time_capsule,red_lines_matrix
+5,Foundations,Could a Regional War Become World War 3?,middle east war escalation,How regional flashpoints become system-wide crises.,4,6,time_capsule,escalation_theory
+6,Foundations,U.S. Israel Iran Conflict: The 72-Hour Escalation Ladder,us israel iran conflict,Decision tree for first 72 hours after major strike.,5,7,time_capsule,72h_ladder
+7,Foundations,"Iran Military Strategy: Proxies, Missiles, and Deterrence",iran military strategy,Explain IRGC logic and asymmetric posture.,6,8,time_capsule,iran_doctrine
+8,Foundations,"Israel Defense Strategy: Preemption, Air Defense, and Risk",israel defense strategy,Explain Israeli doctrine and operational constraints.,7,9,time_capsule,israel_doctrine
+9,Foundations,"U.S. Military in the Middle East: Bases, Reach, Limits",us military middle east,What U.S. can and cannot do quickly.,8,10,time_capsule,us_force_posture
+10,Foundations,World War 3 Risk Index: How We Measure Escalation,world war 3 risk,Introduce your show’s scoring framework.,9,11,time_capsule,risk_index_method
+11,Military-Intel,Iran Missile Arsenal: What Can Reach Israel and U.S. Assets?,iran missiles,"Capabilities, ranges, and likely use cases.",10,12,time_capsule,missile_inventory
+12,Military-Intel,Can Israel Stop Mass Missile Attacks? Defense Limits,israel air defense,Layered defense under saturation pressure.,11,13,time_capsule,air_defense_limits
+13,Military-Intel,Hezbollah vs Israel: Could Lebanon Trigger a Bigger War?,hezbollah israel war,Northern front risks and thresholds.,12,14,time_capsule,hezbollah_front
+14,Military-Intel,Houthi Attacks and the Red Sea: Why Shipping Is at Risk,red sea shipping crisis,Maritime disruption mechanics and response options.,13,15,time_capsule,red_sea_shipping
+15,Military-Intel,Proxy War Map: Iran-Backed Militias in Iraq and Syria,iran proxies,Operational map of militia pressure points.,14,16,time_capsule,proxy_network_map
+16,Military-Intel,"Cyberwar in a U.S.-Iran Conflict: Grid, Banks, Ports",cyberattack iran,Likely cyber targets and second-order effects.,15,17,time_capsule,cyber_threat_model
+17,Military-Intel,Special Ops and Covert Action: What Stays Off the Record,covert war middle east,How deniable operations shape escalation.,16,18,time_capsule,covert_ops
+18,Military-Intel,Nuclear Breakout: How Close Is Iran to a Bomb?,iran nuclear timeline,Breakout vs weaponization vs delivery timeline.,17,19,time_capsule,nuclear_timeline
+19,Military-Intel,"Intelligence War: Mossad, CIA, IRGC and Information Battles",iran israel intelligence,"Collection, deception, and misread signals.",18,20,time_capsule,intel_competition
+20,Military-Intel,What Happens After a Major Strike? First-Week War Game,iran israel strike scenario,Simulate week-one responses and constraints.,19,21,time_capsule,week_one_wargame
+21,Flashpoints,Strait of Hormuz Closure: Gas Prices and Global Shock,strait of hormuz closure,What closure would do to energy and shipping.,20,22,time_capsule,hormuz_impact
+22,Flashpoints,Could the U.S. Draft Return? Facts vs WW3 Fear,us draft world war 3,Separate legal reality from viral claims.,21,23,time_capsule,draft_factcheck
+23,Flashpoints,Israel Gaza War Spillover: How It Links to Iran Risk,gaza iran escalation,Causal links from Gaza to broader escalation.,22,24,time_capsule,gaza_spillover
+24,Flashpoints,Iraq and Syria Fronts: U.S. Base Vulnerability Explained,us bases iraq syria,Exposure of U.S. installations and force protection.,23,25,time_capsule,base_risk_assessment
+25,Flashpoints,Saudi and UAE in a U.S.-Iran War: Neutral or Active?,saudi uae iran war,Gulf state balancing and incentives.,24,26,time_capsule,gulf_positions
+26,Flashpoints,Turkey’s Role in Middle East War Scenarios,turkey middle east war,NATO member with independent regional calculus.,25,27,time_capsule,turkey_calculus
+27,Flashpoints,Russia and China in an Iran-Israel War: Opportunism Matrix,russia china middle east,How great powers exploit regional conflict.,26,28,time_capsule,great_power_matrix
+28,Flashpoints,Europe Energy Security if Middle East War Expands,europe energy war risk,"LNG, shipping lanes, and inflation exposure.",27,29,time_capsule,europe_energy
+29,Flashpoints,Critical Minerals and War: Supply Chain Chokepoints,critical minerals war,How conflict hits industrial inputs.,28,30,time_capsule,minerals_supply_chain
+30,Flashpoints,If Hormuz Stays Open but Red Sea Fails: Alternate Crisis,red sea vs hormuz,Comparative maritime disruption scenarios.,29,31,time_capsule,maritime_scenario_compare
+31,U.S. Decision Room,Inside the White House War Decision Process,war powers white house,How escalation choices are actually made.,30,32,time_capsule,decision_process_us
+32,U.S. Decision Room,"Congress, War Powers, and Limits on Military Action",congress war powers,Legal and political constraints on force use.,31,33,time_capsule,war_powers_law
+33,U.S. Decision Room,Sanctions vs Strikes: Which Changes Behavior Faster?,iran sanctions effectiveness,Compare coercive tools and lag times.,32,34,time_capsule,sanctions_vs_force
+34,U.S. Decision Room,Can the U.S. Fight Two Wars at Once? Capacity Check,us military capacity,"Readiness, munitions, and logistical strain.",33,35,time_capsule,capacity_model
+35,U.S. Decision Room,"Defense Industrial Base: Ammo, Missiles, and Bottlenecks",munitions shortage,Sustainment risks in prolonged conflict.,34,36,time_capsule,industrial_base
+36,U.S. Decision Room,Oil Shock and Inflation: What War Means for Households,gas prices war middle east,Consumer-level impacts from strategic events.,35,37,time_capsule,consumer_impact
+37,U.S. Decision Room,"Domestic Security Risk: Retaliation, Cyber, Critical Infra",us homeland security war,Homeland threat surface in escalatory cycles.,36,38,time_capsule,homeland_risk
+38,U.S. Decision Room,Disinformation Warfare: How Narratives Shape Escalation,war disinformation,Information ops and public sentiment effects.,37,39,time_capsule,info_warfare
+39,U.S. Decision Room,"Markets Under Fire: Bonds, Oil, Defense Stocks, Volatility",war market impact,How markets price conflict phases.,38,40,time_capsule,market_reaction_model
+40,U.S. Decision Room,What Would De-Escalation Actually Look Like?,iran israel ceasefire,Necessary conditions for sustained calm.,39,41,time_capsule,deescalation_conditions
+41,Futures,"Scenario A: Contained Conflict, No Regional Explosion",contained conflict scenario,Low-to-mid escalation pathway.,40,42,time_capsule,scenario_a
+42,Futures,Scenario B: Multi-Front Regional War,regional war scenario,Parallel fronts and coordination risks.,41,43,time_capsule,scenario_b
+43,Futures,Scenario C: Direct U.S.-Iran Confrontation,us iran direct war,Trigger set for overt bilateral conflict.,42,44,time_capsule,scenario_c
+44,Futures,Scenario D: Nuclear Threshold Crisis,nuclear crisis iran,Inspection failure and coercive timelines.,43,45,time_capsule,scenario_d
+45,Futures,Scenario E: Iranian Regime Instability and Spillover,iran regime instability,Internal instability and external effects.,44,46,time_capsule,scenario_e
+46,Futures,Scenario F: Sudden Ceasefire and New Security Order,middle east ceasefire,Best-case but fragile reset pathway.,45,47,time_capsule,scenario_f
+47,Futures,Who Wins What? Defining Victory for Every Actor,war end states,Different actor objectives and success metrics.,46,48,time_capsule,victory_conditions
+48,Futures,Who Pays the Cost? Civilian and Economic Fallout,war humanitarian impact,"Humanitarian, migration, and economic damage.",47,49,time_capsule,civilian_costs
+49,Futures,The Next 12 Months: Most Likely Escalation Path,world war 3 prediction,Probabilistic path based on current signals.,48,50,time_capsule,forward_outlook
+50,Futures,Start Here for Live Feed: How to Follow Daily Updates,war update podcast,Bridge episode from time-capsule to 2/day feed.,49,LIVE_D1_AM,live_feed_transition

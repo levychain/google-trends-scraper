@@ -1,0 +1,301 @@
+{
+  "launch_date": "2026-02-20",
+  "launch_day": 0,
+  "calendar_days": [
+    {
+      "day_num": 1,
+      "date": "2026-02-21",
+      "weekday": "Saturday",
+      "episodes": [
+        {
+          "slot": "AM (6:00 AM PST)",
+          "episode_num": 1,
+          "title": "How Close Are We to World War 3 Right Now",
+          "arc": "Foundations",
+          "primary_keyword": "how close to world war 3"
+        },
+        {
+          "slot": "PM (2:00 PM PST)",
+          "episode_num": 2,
+          "title": "Is the U.S. Going to War With Iran? 3 Scenarios That End in Conflict",
+          "arc": "Foundations",
+          "primary_keyword": "us iran war"
+        }
+      ]
+    },
+    {
+      "day_num": 2,
+      "date": "2026-02-22",
+      "weekday": "Sunday",
+      "episodes": [
+        {
+          "slot": "AM (6:00 AM PST)",
+          "episode_num": 3,
+          "title": "Israel and Iran Have Been at War for 40 Years \u2014 Here's the Proof",
+          "arc": "Foundations",
+          "primary_keyword": "israel iran war"
+        },
+        {
+          "slot": "PM (2:00 PM PST)",
+          "episode_num": 4,
+          "title": "The 5 Red Lines That Start a War With Iran",
+          "arc": "Foundations",
+          "primary_keyword": "iran war red lines 2026"
+        }
+      ]
+    },
+    {
+      "day_num": 3,
+      "date": "2026-02-23",
+      "weekday": "Monday",
+      "episodes": [
+        {
+          "slot": "AM (6:00 AM PST)",
+          "episode_num": 5,
+          "title": "How a Middle East War Becomes World War 3 in 72 Hours",
+          "arc": "Foundations",
+          "primary_keyword": "middle east war world war 3"
+        },
+        {
+          "slot": "PM (2:00 PM PST)",
+          "episode_num": 6,
+          "title": "The 72-Hour Escalation Ladder: From First Strike to World War",
+          "arc": "Foundations",
+          "primary_keyword": "iran israel escalation timeline"
+        }
+      ]
+    },
+    {
+      "day_num": 4,
+      "date": "2026-02-24",
+      "weekday": "Tuesday",
+      "episodes": [
+        {
+          "slot": "AM (6:00 AM PST)",
+          "episode_num": 7,
+          "title": "Iran's War Plan: Thousands of Missiles, 12 Proxy Armies, One Strategy",
+          "arc": "Foundations",
+          "primary_keyword": "iran military strategy"
+        },
+        {
+          "slot": "PM (2:00 PM PST)",
+          "episode_num": 8,
+          "title": "How Israel Plans to Survive a 3-Front War",
+          "arc": "Foundations",
+          "primary_keyword": "israel defense strategy 2026"
+        }
+      ]
+    },
+    {
+      "day_num": 5,
+      "date": "2026-02-25",
+      "weekday": "Wednesday",
+      "episodes": [
+        {
+          "slot": "AM (6:00 AM PST)",
+          "episode_num": 9,
+          "title": "40,000 U.S. Troops in the Middle East \u2014 What They Can and Can't Do",
+          "arc": "Foundations",
+          "primary_keyword": "us military middle east bases"
+        },
+        {
+          "slot": "PM (2:00 PM PST)",
+          "episode_num": 10,
+          "title": "World War 3 Risk Index: The Number You Need to Watch",
+          "arc": "Foundations",
+          "primary_keyword": "world war 3 risk index"
+        }
+      ]
+    },
+    {
+      "day_num": 6,
+      "date": "2026-02-26",
+      "weekday": "Thursday",
+      "episodes": [
+        {
+          "slot": "AM (6:00 AM PST)",
+          "episode_num": 11,
+          "title": "Iran's Missiles Can Reach U.S. Bases in Minutes \u2014 Here's the Arsenal",
+          "arc": "Military-Intel",
+          "primary_keyword": "iran missile range map"
+        },
+        {
+          "slot": "PM (2:00 PM PST)",
+          "episode_num": 12,
+          "title": "Can Iron Dome Stop 1,000 Missiles at Once? The Math Says No",
+          "arc": "Military-Intel",
+          "primary_keyword": "iron dome limits saturation"
+        }
+      ]
+    },
+    {
+      "day_num": 7,
+      "date": "2026-02-27",
+      "weekday": "Friday",
+      "episodes": [
+        {
+          "slot": "AM (6:00 AM PST)",
+          "episode_num": 13,
+          "title": "Hezbollah Has 150,000 Rockets Aimed at Israel Right Now",
+          "arc": "Military-Intel",
+          "primary_keyword": "hezbollah rockets israel"
+        },
+        {
+          "slot": "PM (2:00 PM PST)",
+          "episode_num": 14,
+          "title": "Why Your Shipping Costs Are Rising: The Red Sea Crisis Explained",
+          "arc": "Military-Intel",
+          "primary_keyword": "red sea shipping crisis 2026"
+        }
+      ]
+    },
+    {
+      "day_num": 8,
+      "date": "2026-02-28",
+      "weekday": "Saturday",
+      "episodes": [
+        {
+          "slot": "AM (6:00 AM PST)",
+          "episode_num": 15,
+          "title": "Iran's 12 Proxy Armies: The Map That Explains Everything",
+          "arc": "Military-Intel",
+          "primary_keyword": "iran proxy militias map"
+        },
+        {
+          "slot": "PM (2:00 PM PST)",
+          "episode_num": 16,
+          "title": "Iran Can Target U.S. Power Grids and Banks \u2014 Here's How",
+          "arc": "Military-Intel",
+          "primary_keyword": "iran cyberattack united states"
+        }
+      ]
+    },
+    {
+      "day_num": 9,
+      "date": "2026-03-01",
+      "weekday": "Sunday",
+      "episodes": [
+        {
+          "slot": "AM (6:00 AM PST)",
+          "episode_num": 17,
+          "title": "The Shadow War Between the U.S. and Iran Nobody Talks About",
+          "arc": "Military-Intel",
+          "primary_keyword": "us iran covert operations"
+        },
+        {
+          "slot": "PM (2:00 PM PST)",
+          "episode_num": 18,
+          "title": "Iran Is Weeks Away From a Nuclear Bomb \u2014 What Happens Next",
+          "arc": "Military-Intel",
+          "primary_keyword": "iran nuclear bomb timeline 2026"
+        }
+      ]
+    },
+    {
+      "day_num": 10,
+      "date": "2026-03-02",
+      "weekday": "Monday",
+      "episodes": [
+        {
+          "slot": "AM (6:00 AM PST)",
+          "episode_num": 19,
+          "title": "Mossad vs IRGC: The Intelligence War Deciding the Next Strike",
+          "arc": "Military-Intel",
+          "primary_keyword": "mossad iran intelligence war"
+        },
+        {
+          "slot": "PM (2:00 PM PST)",
+          "episode_num": 20,
+          "title": "Day 1 to Day 7: What a War With Iran Actually Looks Like",
+          "arc": "Military-Intel",
+          "primary_keyword": "iran war simulation first week"
+        }
+      ]
+    },
+    {
+      "day_num": 11,
+      "date": "2026-03-03",
+      "weekday": "Tuesday",
+      "episodes": [
+        {
+          "slot": "AM (6:00 AM PST)",
+          "episode_num": 21,
+          "title": "What $9 Gas Looks Like If Iran Closes the Strait of Hormuz",
+          "arc": "Flashpoints",
+          "primary_keyword": "strait of hormuz gas prices"
+        },
+        {
+          "slot": "PM (2:00 PM PST)",
+          "episode_num": 22,
+          "title": "You Were Auto-Registered for the Draft in December \u2014 Here's What It Means",
+          "arc": "Flashpoints",
+          "primary_keyword": "military draft 2026 automatic"
+        }
+      ]
+    },
+    {
+      "day_num": 12,
+      "date": "2026-03-04",
+      "weekday": "Wednesday",
+      "episodes": [
+        {
+          "slot": "AM (6:00 AM PST)",
+          "episode_num": 23,
+          "title": "How the Gaza War Pulls the U.S. Into a Conflict With Iran",
+          "arc": "Flashpoints",
+          "primary_keyword": "gaza war iran escalation"
+        },
+        {
+          "slot": "PM (2:00 PM PST)",
+          "episode_num": 24,
+          "title": "13 U.S. Bases in Iraq and Syria Are Sitting Targets \u2014 Here's Why",
+          "arc": "Flashpoints",
+          "primary_keyword": "us bases iraq syria attacks"
+        }
+      ]
+    },
+    {
+      "day_num": 13,
+      "date": "2026-03-05",
+      "weekday": "Thursday",
+      "episodes": [
+        {
+          "slot": "AM (6:00 AM PST)",
+          "episode_num": 25,
+          "title": "Will Saudi Arabia and UAE Fight or Hide in a War With Iran?",
+          "arc": "Flashpoints",
+          "primary_keyword": "saudi arabia uae iran war"
+        },
+        {
+          "slot": "PM (2:00 PM PST)",
+          "episode_num": 26,
+          "title": "Turkey Controls the Chokepoint That Decides a Middle East War",
+          "arc": "Flashpoints",
+          "primary_keyword": "turkey nato middle east war"
+        }
+      ]
+    },
+    {
+      "day_num": 14,
+      "date": "2026-03-06",
+      "weekday": "Friday",
+      "episodes": [
+        {
+          "slot": "AM (6:00 AM PST)",
+          "episode_num": 27,
+          "title": "Russia and China Are Waiting for a U.S.-Iran War \u2014 Here's Their Plan",
+          "arc": "Flashpoints",
+          "primary_keyword": "russia china exploit iran war"
+        },
+        {
+          "slot": "PM (2:00 PM PST)",
+          "episode_num": 28,
+          "title": "Europe's Energy Lifeline Runs Through the Middle East \u2014 Here's the Math",
+          "arc": "Flashpoints",
+          "primary_keyword": "europe energy crisis middle east war"
+        }
+      ]
+    }
+  ],
+  "total_episodes_promoted": 28
+}
